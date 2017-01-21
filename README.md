@@ -1,0 +1,2 @@
+# Panoramic-stitching-of-two-images
+Contaions the MATLAB code for panoramic stitching of 2 images. Has a separate code to find the best affine transformation from RANSAC. Uses SIFT to find out the matching points in the image. The User will need to download a library called "vlfeat-0.9.20" from online. Also, run the VLFeat_startup code (after changing the path in the run command) to let the MATLAB engine know that the SIFT library is being used.
